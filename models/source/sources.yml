@@ -1,0 +1,7 @@
+sources:
+  - name: pra_win
+    schema: public
+    tables:
+      - name: emp_db
+        identifier: employee_database
+        description: google sheet
